@@ -1,0 +1,62 @@
+/* General Styles */
+#wrapper  #container
+body {
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+#wrapper  #container
+header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 1em 0;
+    text-align: center;
+}
+#wrapper  #container
+header h1 {
+    margin: 0;
+    font-size: 2em;
+}
+#wrapper  #container
+nav {
+    background-color: #333;
+}
+#wrapper  #container
+nav {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+#wrapper  #container
+nav {
+    display: inline;
+    margin-right: 15px;
+}
+#wrapper  #container
+nav {
+    color: white;
+    text-decoration: none;
+}
+#wrapper  #container
+nav {
+    text-decoration: underline;
+}
+#wrapper  #container
+p   {
+    padding: 2em;
+    margin: 1em auto;
+    max-width: 800px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+#wrapper  #container
+footer {
+    text-align: center;
+    padding: 1em 0;
+    background-color: #333;
+    color: white;
+}
